@@ -1,0 +1,13 @@
+brand,category,founded,hq,revenue_m_eur,revenue_growth_pct,employees,flagship_stores,instagram_followers_m,ownership,dtc_pct,transparency_score,good_on_you,avg_jacket_price,resale_retention_pct,archive_premium_pct,yrs_of_operation,had_bankruptcy,conglomerate_owned
+Rick Owens,Avant-Garde,1994,Paris,125,18,350,10,2.1,Independent,45,12,2,2800,78,40,31,False,False
+Maison Margiela,Avant-Garde,1988,Paris,310,23,1200,58,5.4,OTB Group,55,38,3,2200,82,120,37,False,True
+Comme des Garçons,Avant-Garde,1969,Tokyo,300,8,600,14,1.8,Independent,70,10,2,2400,75,200,56,False,False
+Yohji Yamamoto,Avant-Garde,1972,Tokyo,110,5,400,12,1.2,Integral Corp (majority),50,8,2,2600,65,80,53,True,False
+Ann Demeulemeester,Avant-Garde,1985,Antwerp,35,3,120,4,0.6,Claes Iversen (since 2013),40,5,2,1800,60,150,40,False,False
+Helmut Lang (Archive),Avant-Garde,1986,New York (archive),0,0,0,0,0.4,PVH Corp (dormant brand),0,0,0,0,0,300,18,False,True
+Louis Vuitton,Mainstream Luxury,1854,Paris,20000,9,30000,460,55.4,LVMH,90,24,2,4500,55,20,171,False,True
+Gucci,Mainstream Luxury,1921,Florence,9870,-6,18000,540,49.2,Kering,85,80,3,3200,45,15,103,False,True
+Balenciaga,Mainstream Luxury,1917,Paris,1500,-15,4000,100,14.1,Kering,80,60,3,3800,35,5,107,False,True
+Zara,Fast Fashion,1975,"Arteixo, Spain",22560,10,65000,1900,40.0,Inditex,30,50,3,80,5,0,50,False,True
+H&M,Fast Fashion,1947,Stockholm,20900,6,120000,4300,38.2,H&M Group (Persson family),25,71,3,50,2,0,78,False,False
+Shein,Fast Fashion,2012,Singapore/China,29800,43,10000,0,31.0,Private (Xu Yangtian),100,4,1,18,0,0,13,False,False
