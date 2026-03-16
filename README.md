@@ -11,6 +11,7 @@ A multi-deliverable business analysis project examining the financial durability
 
 **Central thesis:** Scarcity, mystique, and designer authorship create brand moats that volume-dependent luxury and trend-dependent fast fashion structurally cannot replicate, making avant-garde brands some of the most durable businesses in fashion despite never chasing scale.
 
+![Anti-Virality Paradox](charts/01_anti_virality_paradox.png)
 ---
 
 ## Brands Studied
