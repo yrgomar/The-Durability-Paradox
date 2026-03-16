@@ -9,7 +9,7 @@
 
 A multi-deliverable business analysis project examining the financial durability of avant-garde fashion brands against two structural foils: mainstream luxury conglomerates and fast fashion operators.
 
-**Central thesis:** Scarcity, mystique, and designer authorship create brand moats that volume-dependent luxury and trend-dependent fast fashion structurally cannot replicate — making avant-garde brands some of the most durable businesses in fashion despite never chasing scale.
+**Central thesis:** Scarcity, mystique, and designer authorship create brand moats that volume-dependent luxury and trend-dependent fast fashion structurally cannot replicate, making avant-garde brands some of the most durable businesses in fashion despite never chasing scale.
 
 ---
 
@@ -27,7 +27,7 @@ A multi-deliverable business analysis project examining the financial durability
 
 | File | Description |
 |------|-------------|
-| `analysis.py` | Full Python analysis — 8 publication-quality charts |
+| `analysis.py` | Full Python analysis - 8 publication-quality charts |
 | `luxury_fashion_master.csv` | Master dataset: 12 brands × 18 variables |
 | `durability_paradox_dataset.xlsx` | Formatted Excel workbook with sources & methodology |
 | `durability_paradox.pptx` | 15-slide academic presentation |
@@ -74,7 +74,7 @@ Variables include: revenue (€M), revenue growth YoY, employees, flagship store
 
 ## Key Findings
 
-1. Scarcity is a financially viable strategy at meaningful scale — Rick Owens proves €125M is achievable without advertising
+1. Scarcity is a financially viable strategy at meaningful scale - Rick Owens proves €125M is achievable without advertising
 2. Social media reach is inversely correlated with brand durability indicators
 3. The secondary market is the most reliable leading indicator of brand health
 4. Fashion Transparency Index scores measure regulatory compliance, not ethical performance
